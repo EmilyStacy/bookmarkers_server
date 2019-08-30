@@ -1,0 +1,25 @@
+{"message":"Unauthorized path to path: /","level":"error"}
+{"message":"Unauthorized path to path: /","level":"error"}
+{"message":"Unauthorized path to path: /","level":"error"}
+{"message":"Unauthorized path to path: /","level":"error"}
+{"message":"Unauthorized path to path: /","level":"error"}
+{"message":"Unauthorized path to path: /","level":"error"}
+{"message":"bookmark with id 064c4c4c-8919-4e66-b182-053c77caea4f is created","level":"info"}
+{"message":"bookmark with id 9f372a5b-41d8-4970-bc5a-e10c54573635 is created","level":"info"}
+{"message":"bookmark with id eb43b9e8-31a7-4df4-960d-451b0859768c is created","level":"info"}
+{"message":"Unauthorized path to path: /bookmarks/eb43b9e8-31a7-4df4-960d-451b0859768c","level":"error"}
+{"message":"Unauthorized path to path: /favicon.ico","level":"error"}
+{"message":"Unauthorized path to path: /bookmarks/eb43b9e8-31a7-4df4-960d-451b0859768c","level":"error"}
+{"message":"bookmark with id e2e38d69-f9e5-4402-863a-6288ce256841 is created","level":"info"}
+{"message":"Unauthorized path to path: /bookmark/e2e38d69-f9e5-4402-863a-6288ce256841","level":"error"}
+{"message":"bookmark with id 2cb57f71-57bf-48c4-9a06-aabf450b30fa is created","level":"info"}
+{"message":"bookmark with id 286185df-bbd9-4a87-9b0f-1d735f0b4ba4 is created","level":"info"}
+{"message":"bookmark with id 128d44b8-3558-4e2c-a15a-7ce3d826ecda is created","level":"info"}
+{"message":"bookmark with id 25de379b-8a5b-477d-ad16-a1da7e58c8d1 is created","level":"info"}
+{"message":"bookmark with id 9860ecb7-f7ec-41b9-bcf2-cbd24671921f is created","level":"info"}
+{"message":"bookmark with id 9bb94cd9-0bb9-4e1b-aae9-4dd0ee10ac20 is created","level":"info"}
+{"message":"bookmark with id adb7ec45-8fb6-4d8c-8355-abb513aca080 is created","level":"info"}
+{"message":"bookmark with id 91375acc-1488-4cfc-af35-08bd34769d1d is created","level":"info"}
+{"message":"bookmark with id 4251a1cf-96d9-4dd6-b36f-0dde961d910e is created","level":"info"}
+{"message":"Bookmark with 4251a1cf-96d9-4dd6-b36f-0dde961d910e deleted","level":"info"}
+{"message":"Bookmark with id 3 not exist","level":"error"}
